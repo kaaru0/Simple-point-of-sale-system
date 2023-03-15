@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ERIC/Desktop/acads/LBYEC2B/2b_project/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+conio.h
+-
+
